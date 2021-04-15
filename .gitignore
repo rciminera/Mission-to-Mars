@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# .DS_Store added here
+.DS_Store
+
+# Adding config.py file.
+config.py
