@@ -12,7 +12,7 @@ def scrape_all():
     browser = Browser('chrome', **executable_path, headless=True)
 
     news_title, news_paragraph = mars_news(browser)
-    
+
     # Run all scraping functions and store results in a dictionary
     data = {
         "news_title": news_title,
