@@ -146,7 +146,7 @@ def hemispheres(browser):
         # hemisphere_image_urls.append({"title" : title, "img_url" : img_url})
         hemisphere_image_urls.append(hemispheres)
 
-        return hemisphere_image_urls
+    return hemisphere_image_urls
 
 if __name__ == "__main__":
 
