@@ -32,7 +32,7 @@ Chrome Webdriver, Splinter, Beautiful Soup, and Python were integrated into the 
 
 The script culminates in a list of dictionaries with url links to the full-resolution images of the four Mars hemispheres.  
 
-[GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/hemi_url_title.png)
+![GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/hemi_url_title.png)
 
 II. Create a "Mission to Mars" Web App
 
@@ -50,25 +50,25 @@ To present the web page, Index HTML was created
 
 [index.html](https://github.com/rciminera/Mission-to-Mars/blob/main/templates/index.html)
 
-[GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/hemi2x2_jpg.png)
+![GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/hemi2x2_jpg.png)
 
 III. Format the Web Page
 
 For the third and final deliverable, Bootstrap was used to make three modifications to the webpage to make it more readable.
 
-[GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/final_webpage.png)
+![GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/final_webpage.png)
 
 The first was to aling the hemisphere images from 2 per row to 4 per row and the second was to shrink the font size of the captions in conjuntion with the images.
 
-[GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/css_hemi.png)
+![GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/css_hemi.png)
 
 The third change was to change the color of the scraping button to green as in "go" versus the default blue color.
 
-[GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/css_btn.png)
+![GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/css_btn.png)
 
 Finally, the CSS Bootstrap code adapts the size of the web page to the device it is being presented on including mobile phones.
 
-[GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/mobile.png)
+![GitHubLogo](https://github.com/rciminera/Mission-to-Mars/blob/main/Screenshots/mobile.png)
 
 
 ## Conclusion
